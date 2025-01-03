@@ -26,7 +26,9 @@ $packages = @(
     "putty",
     "golang",
     "neo4j-community",
-    "openjdk"
+    "openjdk",
+    "googlechrome",
+    "7zip.install"
 )
 
 # Loop through packages and install them
