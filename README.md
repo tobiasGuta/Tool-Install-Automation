@@ -33,9 +33,9 @@ To install Chocolatey, run the following command in an **elevated** PowerShell t
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 ```
 
-Clone this Repository: Clone the repository to your local machine or download the script.
-
 ## Run the Script: 
+
+Clone this Repository: Clone the repository to your local machine or download the script.
 
 Open PowerShell as an administrator, navigate to the folder where the script is located, and run the script:
 
