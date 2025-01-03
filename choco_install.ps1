@@ -17,7 +17,6 @@ $packages = @(
     "git",
     "vscode",
     "openssh",
-    "openvpn",
     "nmap",
     "wireshark",
     "burp-suite-free-edition",
