@@ -33,6 +33,7 @@ $packages = @(
     "curl",
     "gimp",
     "ghidra"
+    "cutter"
 )
 
 # Loop through packages and install them
