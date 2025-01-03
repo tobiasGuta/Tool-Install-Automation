@@ -25,6 +25,8 @@ Open PowerShell as an administrator, navigate to the folder where the script is 
 .\choco_install.ps1
 ```
 
+If any package fails, check the logs in C:\ProgramData\chocolatey\logs\chocolatey.log for more details.
+
 The script will install the following tools:
 
 wsl2
