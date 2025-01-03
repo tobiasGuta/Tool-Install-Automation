@@ -28,7 +28,8 @@ $packages = @(
     "neo4j-community",
     "openjdk",
     "googlechrome",
-    "7zip.install"
+    "7zip.install",
+    "notepadplusplus.install"
 )
 
 # Loop through packages and install them
