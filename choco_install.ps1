@@ -31,7 +31,8 @@ $packages = @(
     "notepadplusplus.install",
     "libreoffice-fresh",
     "curl",
-    "gimp"
+    "gimp",
+    "ghidra"
 )
 
 # Loop through packages and install them
