@@ -29,7 +29,8 @@ $packages = @(
     "openjdk",
     "7zip",
     "notepadplusplus.install",
-    "libreoffice-fresh"
+    "libreoffice-fresh",
+    "curl",
 )
 
 # Loop through packages and install them
