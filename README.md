@@ -17,7 +17,9 @@ Install Chocolatey: If you don’t have Chocolatey installed, follow the install
 
 Clone this Repository: Clone the repository to your local machine or download the script.
 
-## Run the Script: Open PowerShell as an administrator, navigate to the folder where the script is located, and run the script:
+## Run the Script: 
+
+Open PowerShell as an administrator, navigate to the folder where the script is located, and run the script:
 
 ```powershell
 .\choco_install.ps1
