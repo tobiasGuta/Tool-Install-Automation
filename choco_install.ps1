@@ -27,7 +27,6 @@ $packages = @(
     "golang",
     "neo4j-community",
     "openjdk",
-    "googlechrome",
     "7zip",
     "notepadplusplus.install"
 )
