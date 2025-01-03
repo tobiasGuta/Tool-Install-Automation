@@ -28,7 +28,8 @@ $packages = @(
     "neo4j-community",
     "openjdk",
     "7zip",
-    "notepadplusplus.install"
+    "notepadplusplus.install",
+    "libreoffice-fresh"
 )
 
 # Loop through packages and install them
