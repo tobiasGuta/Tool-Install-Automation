@@ -32,8 +32,9 @@ $packages = @(
     "libreoffice-fresh",
     "curl",
     "gimp",
-    "ghidra"
-    "cutter"
+    "ghidra",
+    "cutter",
+    "hxd"
 )
 
 # Loop through packages and install them
